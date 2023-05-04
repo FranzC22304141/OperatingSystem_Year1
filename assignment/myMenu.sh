@@ -1,7 +1,6 @@
 #!/bin/bash
 
-HISTFILE=~/.bash_history
-set -o history
+
 # Function to display the menu
 show_menu() {
     echo "---------------------------"
